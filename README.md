@@ -1,1 +1,1 @@
-# Lab7Web
+# Praktikum Lab 7
